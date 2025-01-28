@@ -14,6 +14,8 @@ To install the necessary package dependencies, use [UV](https://pypi.org/project
 
 ```sh
 uv install
+
+uv sync
 ```
 
 Running the Analysis
